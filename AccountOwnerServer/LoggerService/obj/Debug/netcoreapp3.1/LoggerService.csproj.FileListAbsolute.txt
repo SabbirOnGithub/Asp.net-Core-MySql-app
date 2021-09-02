@@ -1,0 +1,14 @@
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb

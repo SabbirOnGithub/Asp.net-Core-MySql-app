@@ -1,0 +1,71 @@
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.exe
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.deps.json
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.runtimeconfig.json
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.runtimeconfig.dev.json
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.dll
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.pdb
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.csproj.AssemblyReference.cache
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.AssemblyInfoInputs.cache
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.AssemblyInfo.cs
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.csproj.CoreCompileInputs.cache
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.MvcApplicationPartsAssemblyInfo.cache
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\staticwebassets\AccountOwnerServer.StaticWebAssets.Manifest.cache
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\staticwebassets\AccountOwnerServer.StaticWebAssets.xml
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\AccountOwnerServer.styles.css
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.RazorTargetAssemblyInfo.cache
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.dll
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.pdb
+G:\Personal Projects\Asp.net Core MySql app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.genruntimeconfig.cache
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\nlog.config
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.exe
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.deps.json
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.runtimeconfig.json
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.runtimeconfig.dev.json
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.pdb
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\NLog.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Contracts.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\LoggerService.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\LoggerService.pdb
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Contracts.pdb
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.csproj.AssemblyReference.cache
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.AssemblyInfoInputs.cache
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.AssemblyInfo.cs
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.csproj.CoreCompileInputs.cache
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.MvcApplicationPartsAssemblyInfo.cache
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\staticwebassets\AccountOwnerServer.StaticWebAssets.Manifest.cache
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\staticwebassets\AccountOwnerServer.StaticWebAssets.xml
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\AccountOwnerServer.styles.css
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.RazorTargetAssemblyInfo.cache
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.csproj.CopyComplete
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.pdb
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp3.1\AccountOwnerServer.genruntimeconfig.cache
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Entities.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Repository.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\Repository.pdb
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

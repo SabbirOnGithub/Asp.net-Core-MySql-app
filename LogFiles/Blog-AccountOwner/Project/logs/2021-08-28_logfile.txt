@@ -1,0 +1,6 @@
+2021-08-28 13:22:13.1811 INFO Returned all owners from database.
+2021-08-28 13:54:45.4103 INFO Returned all owners from database.
+2021-08-28 17:38:35.9121 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2021-08-28 17:38:42.0271 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5621, hasn't been found in db.
+2021-08-28 17:38:51.9226 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2021-08-28 17:56:27.0360 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
