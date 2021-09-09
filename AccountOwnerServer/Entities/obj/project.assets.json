@@ -536,11 +536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Entities\\Entities.csproj",
+      "projectUniqueName": "E:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "G:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Entities\\Entities.csproj",
+      "projectPath": "E:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Sabbir\\.nuget\\packages\\",
-      "outputPath": "G:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Entities\\obj\\",
+      "outputPath": "E:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

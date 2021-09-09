@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -12,31 +11,32 @@ using Entities.Models;
 
 namespace AccountOwnerServer.Controllers
 {
-    [Route("api/owner")]
+    [Route("api/account")]
     [ApiController]
-    public class OwnerController : ControllerBase
+    public class AccountController : ControllerBase
     {
         private ILoggerManager _logger;
         private IRepositoryWrapper _repository;
         private IMapper _mapper;
 
-        public OwnerController(ILoggerManager logger, IRepositoryWrapper repository, IMapper mapper)
+        public AccountController(ILoggerManager logger, IRepositoryWrapper repository, IMapper mapper)
         {
             _logger = logger;
             _repository = repository;
             _mapper = mapper;
         }
 
+
         [HttpGet]
-        public IActionResult GetAllOwners()
+        public IActionResult GetAllAccounts()
         {
             try
             {
-                var owners = _repository.Owner.GetAllOwners();
+                var accounts = _repository.Account.GetAllAccounts();
                 _logger.LogInfo($"Returned all owners from database.");
 
-                var ownerResult = _mapper.Map<IEnumerable<OwnerDto>>(owners);
-                return Ok(ownerResult);
+                var accountResult = _mapper.Map<IEnumerable<AccountDto>>(accounts);
+                return Ok(accountResult);
             }
             catch (Exception ex)
             {
@@ -45,23 +45,25 @@ namespace AccountOwnerServer.Controllers
             }
         }
 
+
+
         [HttpGet("{id}", Name = "OwnerById")]
-        public IActionResult GetOwnerById(Guid id)
+        public IActionResult GetAccountById(Guid id)
         {
             try
             {
-                var owner = _repository.Owner.GetOwnerById(id);
+                var account = _repository.Account.GetAccountById(id);
 
-                if (owner == null)
+                if (account == null)
                 {
-                    _logger.LogError($"Owner with id: {id}, hasn't been found in db.");
+                    _logger.LogError($"Account with id: {id}, hasn't been found in db.");
                     return NotFound();
                 }
                 else
                 {
-                    _logger.LogInfo($"Returned owner with id: {id}");
+                    _logger.LogInfo($"Returned account with id: {id}");
 
-                    var ownerResult = _mapper.Map<OwnerDto>(owner);
+                    var ownerResult = _mapper.Map<OwnerDto>(account);
                     return Ok(ownerResult);
                 }
 
@@ -73,23 +75,25 @@ namespace AccountOwnerServer.Controllers
             }
         }
 
+
+
         [HttpGet("{id}/account")]
         public IActionResult GetOwnerWithDetails(Guid id)
         {
             try
             {
-                var owner = _repository.Owner.GetOwnerWithDetails(id);
+                var account = _repository.Account.GetAccountWithDetails(id);
 
-                if (owner == null)
+                if (account == null)
                 {
-                    _logger.LogError($"Owner with id: {id}, hasn't been found in db.");
+                    _logger.LogError($"Account with id: {id}, hasn't been found in db.");
                     return NotFound();
                 }
                 else
                 {
-                    _logger.LogInfo($"Returned owner with details for id: {id}");
+                    _logger.LogInfo($"Returned account with details for id: {id}");
 
-                    var ownerResult = _mapper.Map<OwnerDto>(owner);
+                    var ownerResult = _mapper.Map<OwnerDto>(account);
                     return Ok(ownerResult);
                 }
             }
@@ -101,28 +105,28 @@ namespace AccountOwnerServer.Controllers
         }
 
         [HttpPost]
-        public IActionResult CreateOwner([FromBody] OwnerForCreationDto owner)
+        public IActionResult CreateAccount([FromBody] AccountForCreationDto account)
         {
             try
             {
-                if (owner == null)
+                if (account == null)
                 {
-                    _logger.LogError("Owner object sent from client is null.");
-                    return BadRequest("Owner object is null");
+                    _logger.LogError("Account object sent from client is null.");
+                    return BadRequest("Account object is null");
                 }
 
                 if (!ModelState.IsValid)
                 {
-                    _logger.LogError("Invalid owner object sent from client.");
+                    _logger.LogError("Invalid account object sent from client.");
                     return BadRequest("Invalid model object");
                 }
 
-                var ownerEntity = _mapper.Map<Owner>(owner);
+                var accountEntity = _mapper.Map<Account>(account);
 
-                _repository.Owner.CreateOwner(ownerEntity);
+                _repository.Account.CreateAccount(accountEntity);
                 _repository.Save();
 
-                var createdOwner = _mapper.Map<OwnerDto>(ownerEntity);
+                var createdOwner = _mapper.Map<AccountDto>(accountEntity);
 
                 return CreatedAtRoute("OwnerById", new { id = createdOwner.Id }, createdOwner);
             }
@@ -134,32 +138,32 @@ namespace AccountOwnerServer.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult UpdateOwner(Guid id, [FromBody] OwnerForUpdateDto owner)
+        public IActionResult UpdateAccount(Guid id, [FromBody] AccountForCreationDto account)
         {
             try
             {
-                if (owner == null)
+                if (account == null)
                 {
-                    _logger.LogError("Owner object sent from client is null.");
-                    return BadRequest("Owner object is null");
+                    _logger.LogError("Account object sent from client is null.");
+                    return BadRequest("Account object is null");
                 }
 
                 if (!ModelState.IsValid)
                 {
-                    _logger.LogError("Invalid owner object sent from client.");
+                    _logger.LogError("Invalid account object sent from client.");
                     return BadRequest("Invalid model object");
                 }
 
-                var ownerEntity = _repository.Owner.GetOwnerById(id);
-                if (ownerEntity == null)
+                var accountEntity = _repository.Account.GetAccountById(id);
+                if (accountEntity == null)
                 {
-                    _logger.LogError($"Owner with id: {id}, hasn't been found in db.");
+                    _logger.LogError($"Account with id: {id}, hasn't been found in db.");
                     return NotFound();
                 }
 
-                _mapper.Map(owner, ownerEntity);
+                _mapper.Map(account, accountEntity);
 
-                _repository.Owner.UpdateOwner(ownerEntity);
+                _repository.Account.UpdateAccount(accountEntity);
                 _repository.Save();
 
                 return NoContent();
@@ -171,26 +175,20 @@ namespace AccountOwnerServer.Controllers
             }
         }
 
-        
+
         [HttpDelete("{id}")]
         public IActionResult DeleteOwner(Guid id)
         {
             try
             {
-                var owner = _repository.Owner.GetOwnerById(id);
-                if (owner == null)
+                var account = _repository.Account.GetAccountById(id);
+                if (account == null)
                 {
-                    _logger.LogError($"Owner with id: {id}, hasn't been found in db.");
+                    _logger.LogError($"Account with id: {id}, hasn't been found in db.");
                     return NotFound();
                 }
 
-                if (_repository.Account.AccountsByOwner(id).Any())
-                {
-                    _logger.LogError($"Cannot delete owner with id: {id}. It has related accounts. Delete those accounts first");
-                    return BadRequest("Cannot delete owner. It has related accounts. Delete those accounts first");
-                }
-
-                _repository.Owner.DeleteOwner(owner);
+                _repository.Account.DeleteAccount(account);
                 _repository.Save();
 
                 return NoContent();
@@ -201,5 +199,6 @@ namespace AccountOwnerServer.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+
     }
 }

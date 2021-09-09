@@ -10,3 +10,15 @@ G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\obj\Deb
 G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
 G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
 G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.AssemblyReference.cache
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb

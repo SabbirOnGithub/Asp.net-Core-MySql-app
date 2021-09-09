@@ -554,11 +554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Contracts\\Contracts.csproj",
+      "projectUniqueName": "E:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Contracts\\Contracts.csproj",
       "projectName": "Contracts",
-      "projectPath": "G:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Contracts\\Contracts.csproj",
+      "projectPath": "E:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Contracts\\Contracts.csproj",
       "packagesPath": "C:\\Users\\Sabbir\\.nuget\\packages\\",
-      "outputPath": "G:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Contracts\\obj\\",
+      "outputPath": "E:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -582,8 +582,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "G:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Entities\\Entities.csproj": {
-              "projectPath": "G:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Entities\\Entities.csproj"
+            "E:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Entities\\Entities.csproj": {
+              "projectPath": "E:\\Personal Projects\\Asp.net-Core-MySql-app\\AccountOwnerServer\\Entities\\Entities.csproj"
             }
           }
         }

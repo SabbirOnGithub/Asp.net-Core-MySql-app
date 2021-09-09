@@ -12,3 +12,17 @@ G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj
 G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
 G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
 G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

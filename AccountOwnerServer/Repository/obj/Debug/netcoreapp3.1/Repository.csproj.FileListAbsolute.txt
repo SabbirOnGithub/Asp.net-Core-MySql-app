@@ -12,3 +12,17 @@ G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\obj\De
 G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
 G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.dll
 G:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+E:\Personal Projects\Asp.net-Core-MySql-app\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
